@@ -157,8 +157,8 @@ section{
 }
 .inicio-presentacion{
     width: 100%;
-    font-size: 1.5rem;
-    height: 9rem;
+    font-size: 1rem;
+    height: 8rem;
 }
 .botones{
     display: flex;
@@ -310,11 +310,13 @@ section{
 
 }
 .social-network-list{
+    width: 100%;
     list-style: none;
     background-color: #0f0c29;
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 .social-network-list::before{
     content: attr(data-text);
@@ -396,6 +398,7 @@ label{
 }
 .send-msg{
     width: 50%;
+    height: 50px;
     background-color: #13b016;
     margin: 10px auto;
     border-radius: 3px ;
