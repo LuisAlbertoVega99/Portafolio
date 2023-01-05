@@ -395,7 +395,7 @@ label{
     height: 400px;
 }
 .send-msg{
-    width: 500px;
+    width: 50%;
     background-color: #13b016;
     margin: 10px auto;
     border-radius: 3px ;
