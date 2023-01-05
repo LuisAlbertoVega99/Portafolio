@@ -13,7 +13,7 @@ body{
 .header-responsive{
     position: fixed;
     bottom: 10px;
-    left: 47.5vw;
+    left: 43vw;
     z-index: 10000;
 }
 .navigation{
